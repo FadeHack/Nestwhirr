@@ -1,6 +1,6 @@
-# Nestwhirr
+## Overview
 
-A Reddit-like community web application — frontend in React (Tailwind, React Query, Framer Motion) and backend in Node.js/Express with MongoDB. Supports communities (subnests), posts (text/image/link), comments, voting, auth (Firebase + backend), and community creation flows.
+Nestwhirr is a Reddit-style community platform for creating and joining communities, sharing posts (text/image/link), engaging in threaded discussions with voting, and managing user profiles — all in a responsive light/dark web experience with protected flows for authenticated users.
 
 ---
 
